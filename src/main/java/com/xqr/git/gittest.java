@@ -9,5 +9,6 @@ public class gittest {
         System.out.println("master");
         System.out.println("hot-fix");
         System.out.println("push到github");
+        System.out.println("pull到本地");
     }
 }
