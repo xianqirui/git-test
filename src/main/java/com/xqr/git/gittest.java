@@ -7,5 +7,6 @@ public class gittest {
         System.out.println("你好,Github2");
         System.out.println("你好,Github3");
         System.out.println("master");
+        System.out.println("hot-fix");
     }
 }
